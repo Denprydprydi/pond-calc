@@ -1,5 +1,5 @@
 const cachePrefix = 'pond-calc:' + self.registration.scope + ':'
-const cacheName = cachePrefix + 'v1'
+const cacheName = cachePrefix + 'v2'
 const appFiles = [
   './', './index.html', './manifest.json',
   './icon-180.png', './icon-192.png', './icon-512.png'
